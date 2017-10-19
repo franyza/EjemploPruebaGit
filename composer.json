@@ -1,0 +1,10 @@
+{
+  "name": "franyza/fnz-packagesecond",
+  "description": "SDK for PHP",
+  "version": "1.0",
+  "license": ["Apache-2.0"],
+  "require": {
+    "php": ">=5.5.0",
+    "firebase/php-jwt": "^4.0"
+  }
+}
